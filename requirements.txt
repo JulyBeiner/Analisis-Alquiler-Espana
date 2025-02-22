@@ -1,0 +1,10 @@
+pandas
+numpy
+beautifulsoup4
+selenium
+matplotlib
+seaborn
+scikit-learn
+tableau-api-lib
+requests
+jupyter
